@@ -1,2 +1,2 @@
-🌱 I’m currently learning algorithm :)
+🌱 I’m currently learning JavaScript back-end :)
 
