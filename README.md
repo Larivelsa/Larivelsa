@@ -1,2 +1,2 @@
-🌱 I’m currently learning JavaScript back-end :)
+🌱 I’m currently learning Python :)
 
